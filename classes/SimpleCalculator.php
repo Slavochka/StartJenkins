@@ -13,7 +13,7 @@ class SimpleCalculator {
     
     public function calculateSum()
     {
-        return $this->_firstNumber + $this->_secondNumber;
+        return $this->_firstNumber - $this->_secondNumber;
     }
     
     public function calculateDiff()
