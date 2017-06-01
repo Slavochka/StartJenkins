@@ -1,4 +1,6 @@
 <?php
+
+
 class Log {
     protected $_logFile;
 
